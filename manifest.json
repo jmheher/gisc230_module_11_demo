@@ -1,0 +1,9 @@
+{
+  "name": "Module 10 Mobile GIS Demo",
+  "short_name": "Mobile GIS Demo",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f8fc",
+  "theme_color": "#155e75",
+  "icons": []
+}
